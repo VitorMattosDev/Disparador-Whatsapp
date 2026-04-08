@@ -49,8 +49,8 @@ Ferramenta desktop para envio automatizado de mensagens via WhatsApp Web, com m√
 ### 1. Clonar o reposit√≥rio
 
 ```bash
-git clone https://github.com/seu-usuario/disparador-whatsapp.git
-cd disparador-whatsapp
+git clone https://github.com/VitorMattosDev/Disparador-Whatsapp.git
+cd Disparador-Whatsapp
 ```
 
 ### 2. Criar ambiente virtual com Python 3.11
